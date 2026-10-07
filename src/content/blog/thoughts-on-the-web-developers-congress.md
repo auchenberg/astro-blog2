@@ -5,8 +5,6 @@ tags:
   - AI
   - Opinion
 date: 2026-10-02
-draft: true
-status: needs-review
 ---
 
 The Web Developers Congress North America was a mixed experience, showcasing the latest trends in AI but, in my opinion, leaving other areas of development underrepresented and, at times, not included at all. I get it that most developers are focused on AI but I believe a balanced approach that also highlights other critical aspects of the development experience is essential for the community's growth.
