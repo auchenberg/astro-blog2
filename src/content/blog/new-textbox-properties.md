@@ -4,7 +4,6 @@ date: 2026-10-28
 tags:
   - CSS
   - layout
-admonition: true
 baseline: true
 ---
 
